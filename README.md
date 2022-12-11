@@ -12,3 +12,8 @@
 ## Server runs 
 
 ### localhost:1234
+
+
+### View
+![alt text](https://drive.google.com/file/d/1nm2mCvpsHOEA1BUPQb4PZandzLkt9Faw/view?usp=share_link)
+
